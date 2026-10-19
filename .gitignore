@@ -1,0 +1,8 @@
+@'
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.tif
+*.tiff
+'@ | Set-Content .gitignore
